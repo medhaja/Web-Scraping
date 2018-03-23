@@ -2,7 +2,7 @@
 #	Designed to scrape rating and review of a product.
 #	Goto the page of the product and click "see all **** reviews" and copy the url, paste while running this script.
 #	Enter number of pages you want to scrape data from.(Generally in one pages there are around 10 to 12 review of a product)
-#	this script is coed to run on Python 2.7.13 :: Anaconda 4.0.0 (64-bit) if you have python is 3.3 or higher,this script doesnt work unless
+#	this script is coded to run on Python 2.7.13 :: Anaconda 4.0.0 (64-bit) if you have python is 3.3 or higher,this script doesnt work unless
 #	some minor changes
 #	Tested on Windows 10 64-bit comp
 
